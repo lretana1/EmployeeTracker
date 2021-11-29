@@ -2,7 +2,7 @@
 MIT licence
     
 ## Description
-Command line prompt tat allows user to keep track of employees, roles, departments. Employees are able to be added with desired departments and roles and are also able to be removed when necessary. 
+Command line prompt that allows user to keep track of employees, roles, departments. Employees are able to be added with desired departments and roles and are also able to be removed when necessary. 
 [project link](https://github.com/lretana1/EmployeeTracker)
 
 ## Table Of Contents
